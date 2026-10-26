@@ -1,0 +1,202 @@
+{
+  "grandfather_clock": {
+    "url": "/models/grandfather_clock.glb",
+    "size": [
+      0.376,
+      2.1,
+      0.348
+    ],
+    "triangles": 15029,
+    "bytes": 714272
+  },
+  "display_counter": {
+    "url": "/models/display_counter.glb",
+    "size": [
+      1.8,
+      0.892,
+      0.651
+    ],
+    "triangles": 11130,
+    "bytes": 486592
+  },
+  "wall_clock": {
+    "url": "/models/wall_clock.glb",
+    "size": [
+      0.34,
+      0.339,
+      0.055
+    ],
+    "triangles": 3606,
+    "bytes": 189044
+  },
+  "workbench": {
+    "url": "/models/workbench.glb",
+    "size": [
+      1.7,
+      1.15,
+      0.613
+    ],
+    "triangles": 17940,
+    "bytes": 896744
+  },
+  "desk_lamp": {
+    "url": "/models/desk_lamp.glb",
+    "size": [
+      0.218,
+      0.45,
+      0.509
+    ],
+    "triangles": 5171,
+    "bytes": 230016
+  },
+  "tube_radio": {
+    "url": "/models/tube_radio.glb",
+    "size": [
+      0.5,
+      0.335,
+      0.354
+    ],
+    "triangles": 7550,
+    "bytes": 460596
+  },
+  "rotary_phone": {
+    "url": "/models/rotary_phone.glb",
+    "size": [
+      0.24,
+      0.128,
+      0.185
+    ],
+    "triangles": 6134,
+    "bytes": 336360
+  },
+  "cassette_recorder": {
+    "url": "/models/cassette_recorder.glb",
+    "size": [
+      0.34,
+      0.238,
+      0.086
+    ],
+    "triangles": 5809,
+    "bytes": 224608
+  },
+  "armchair": {
+    "url": "/models/armchair.glb",
+    "size": [
+      1.132,
+      0.95,
+      0.841
+    ],
+    "triangles": 10457,
+    "bytes": 307456
+  },
+  "bookshelf": {
+    "url": "/models/bookshelf.glb",
+    "size": [
+      0.624,
+      2,
+      0.336
+    ],
+    "triangles": 18932,
+    "bytes": 913272
+  },
+  "iron_safe": {
+    "url": "/models/iron_safe.glb",
+    "size": [
+      0.518,
+      0.75,
+      0.652
+    ],
+    "triangles": 8050,
+    "bytes": 521528
+  },
+  "wardrobe": {
+    "url": "/models/wardrobe.glb",
+    "size": [
+      1.398,
+      1.9,
+      0.824
+    ],
+    "triangles": 9160,
+    "bytes": 379048
+  },
+  "wooden_chair": {
+    "url": "/models/wooden_chair.glb",
+    "size": [
+      0.511,
+      0.9,
+      0.571
+    ],
+    "triangles": 5236,
+    "bytes": 172864
+  },
+  "round_table": {
+    "url": "/models/round_table.glb",
+    "size": [
+      1.299,
+      0.76,
+      1.298
+    ],
+    "triangles": 5822,
+    "bytes": 204992
+  },
+  "pocket_watch": {
+    "url": "/models/pocket_watch.glb",
+    "size": [
+      0.08,
+      0.059,
+      0.054
+    ],
+    "triangles": 5267,
+    "bytes": 250200
+  },
+  "photo_frame": {
+    "url": "/models/photo_frame.glb",
+    "size": [
+      0.161,
+      0.22,
+      0.095
+    ],
+    "triangles": 2096,
+    "bytes": 136032
+  },
+  "old_trunk": {
+    "url": "/models/old_trunk.glb",
+    "size": [
+      0.9,
+      0.496,
+      0.554
+    ],
+    "triangles": 7364,
+    "bytes": 447636
+  },
+  "filing_cabinet": {
+    "url": "/models/filing_cabinet.glb",
+    "size": [
+      0.975,
+      1.32,
+      1.026
+    ],
+    "triangles": 6048,
+    "bytes": 529024
+  },
+  "dress_form": {
+    "url": "/models/dress_form.glb",
+    "size": [
+      0.539,
+      1.6,
+      0.34
+    ],
+    "triangles": 8422,
+    "bytes": 332876
+  },
+  "iron_bed": {
+    "url": "/models/iron_bed.glb",
+    "size": [
+      1.804,
+      1.057,
+      2
+    ],
+    "triangles": 14582,
+    "bytes": 852280
+  }
+}

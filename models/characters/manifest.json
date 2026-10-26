@@ -1,0 +1,135 @@
+{
+  "file": "/models/characters/investigator.glb",
+  "height": 1.7,
+  "clips": {
+    "idle": 9.967,
+    "walk": 1.2,
+    "run": 0.767,
+    "crouch_walk": 1.167,
+    "crouch_idle": 5.833,
+    "look_around": 7.833
+  },
+  "bones": {
+    "rightHand": "RightHand",
+    "leftHand": "LeftHand",
+    "head": "Head",
+    "headTop": "head_end",
+    "neck": "neck",
+    "spine": [
+      "Spine02",
+      "Spine01",
+      "Spine"
+    ],
+    "hips": "Hips"
+  },
+  "triangles": 20606,
+  "bytes": 950460,
+  "facing": "-Z",
+  "feetAtY": 0,
+  "rootNode": "investigator",
+  "skinnedMesh": "investigator_body",
+  "restBounds": {
+    "min": [
+      -0.58,
+      0,
+      -0.192
+    ],
+    "max": [
+      0.573,
+      1.7,
+      0.187
+    ]
+  },
+  "clipInfo": {
+    "idle": {
+      "source": "Idle_3",
+      "actionId": 243,
+      "hipsHorizontalRangeM": 0.059,
+      "netHipsDriftM": 0,
+      "rootMotion": false,
+      "seamDeg": 0.1,
+      "groundLiftM": 0.045,
+      "minFootY": 0,
+      "maxHeight": 1.708
+    },
+    "walk": {
+      "source": "walking_2_inplace",
+      "actionId": 692,
+      "hipsHorizontalRangeM": 0.041,
+      "netHipsDriftM": 0.005,
+      "rootMotion": false,
+      "seamDeg": 5.2,
+      "loopClosed": true,
+      "groundLiftM": 0.005,
+      "minFootY": 0,
+      "maxHeight": 1.7
+    },
+    "run": {
+      "source": "run_fast_3_inplace",
+      "actionId": 659,
+      "hipsHorizontalRangeM": 0.042,
+      "netHipsDriftM": 0.018,
+      "rootMotion": false,
+      "seamDeg": 28.2,
+      "loopClosed": true,
+      "groundLiftM": 0.022,
+      "minFootY": 0.001,
+      "maxHeight": 1.723
+    },
+    "crouch_walk": {
+      "source": "Cautious_Crouch_Walk_Forward_inplace",
+      "actionId": 616,
+      "hipsHorizontalRangeM": 0.093,
+      "netHipsDriftM": 0.005,
+      "rootMotion": false,
+      "seamDeg": 3.5,
+      "loopClosed": true,
+      "groundLiftM": 0.027,
+      "minFootY": 0,
+      "maxHeight": 1.387
+    },
+    "crouch_idle": {
+      "source": "CrouchLookAroundBow",
+      "actionId": 258,
+      "hipsHorizontalRangeM": 0.054,
+      "netHipsDriftM": 0,
+      "rootMotion": false,
+      "seamDeg": 0,
+      "groundLiftM": 0.04,
+      "minFootY": 0,
+      "maxHeight": 1.244
+    },
+    "look_around": {
+      "source": "Short_Breathe_and_Look_Around",
+      "actionId": 338,
+      "hipsHorizontalRangeM": 0.023,
+      "netHipsDriftM": 0,
+      "rootMotion": false,
+      "seamDeg": 0,
+      "groundLiftM": 0.048,
+      "minFootY": 0,
+      "maxHeight": 1.7
+    }
+  },
+  "source": {
+    "generator": "Meshy text-to-3D meshy-t2.5 (smart topology, A-pose) -> rigging -> animation library",
+    "tasks": {
+      "preview": {
+        "id": "01a17681-011a-7134-a881-934f0e989e81",
+        "credits": 5
+      },
+      "refine": {
+        "id": "01a17681-aca0-72db-a050-3011ea6556df",
+        "credits": 10
+      },
+      "rig": {
+        "id": "01a17682-73ec-709f-825e-30d4f20c1848",
+        "credits": 5
+      },
+      "animate": {
+        "id": "01a17683-9704-749e-a6a0-3b27a7cfcc35",
+        "credits": 18
+      }
+    }
+  }
+}
